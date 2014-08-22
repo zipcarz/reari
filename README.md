@@ -1,0 +1,3 @@
+reari
+=====
+jQuery.error(message)
